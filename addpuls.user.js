@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AddPlus Claim Points
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      2.0
 // @description  自动触发 AddPlus 用户积分领取
 // @author       wutongge_BTCC
 // @match        https://addplus.org/*
